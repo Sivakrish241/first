@@ -1,0 +1,3 @@
+this sivakrishna from bangalore
+this if for training of git class
+this new notes for adding to the sample.txt file
